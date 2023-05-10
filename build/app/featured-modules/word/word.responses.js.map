@@ -1,0 +1,1 @@
+{"version":3,"file":"word.responses.js","sourceRoot":"","sources":["../../../../app/featured-modules/word/word.responses.ts"],"names":[],"mappings":";;;AAEa,QAAA,cAAc,GAAG;IAE1B,WAAW,EAAG;QACV,OAAO,EAAE,sCAAsC;QAC/C,UAAU,EAAE,GAAG;KAClB;IACD,kBAAkB,EAAE;QAChB,OAAO,EAAG,oBAAoB;QAC9B,SAAS,EAAG,GAAG;KAClB;IACD,qBAAqB,EAAC;QAClB,OAAO,EAAG,uBAAuB;QACjC,SAAS,EAAG,GAAG;KAClB;CAEJ,CAAA"}
